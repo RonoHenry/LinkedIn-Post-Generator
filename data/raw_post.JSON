@@ -1,0 +1,84 @@
+{
+    "post": "Why Human Intelligence Still Drives Insights - Even in the Age of AI\n\nThe sweet spot between artificial intelligence and human expertise in market research takes center stage on this live episode of 'Insightful Inspiration.' Our own Monika Rogers [Wingate] joins host Isabelle Landreville, owner of Sylvestre & Co., to share practical insights on maximizing research impact through the strategic integration of AI and human intelligence.\n\nDrawing from her extensive experience, Monika brings a unique perspective on turning data into strategic action.\n\nListen to discover how leading organizations are combining human expertise with AI capabilities to drive confident, impactful decisions.",
+    "engagement": {
+      "likes": 154,
+      "comments": 32,
+      "shares": 18,
+      "views": 1032
+    }
+  }
+{
+    "post": "Integrating AI With Agile: How Artificial Intelligence Can Enhance Agile Practices.\n\nAI revolutionizes Agile by analyzing vast data, delivering actionable insights, refining processes, enabling faster iterations, improving decision-making, and enhancing collaboration.\n\nAI empowers teams to deliver smarter, customer-focused solutions more efficiently.\n\nCheck this post to know how AI-powered tools are becoming necessary for Agile teams.\n\nHow do you see AI transforming Agile practices?\n\nHave you used any AI tools to enhance your Agile workflows?",
+    "engagement": {
+      "likes": 278,
+      "comments": 54,
+      "shares": 25,
+      "views": 1870
+    }
+  }
+  {
+    "post": "Want to stay on top of all the AI & GenAI news? Weekly breakdown of the top headlines, what it is all about and what it all means\n\n𝗧𝗼𝗽 (𝗚𝗲𝗻)𝗔𝗜 𝗛𝗲𝗮𝗱𝗹𝗶𝗻𝗲𝘀 𝘁𝗵𝗶𝘀 𝗪𝗲𝗲𝗸:\n\n● Stargate\nSecuring US leadership in the geopolitical (Gen)AI race\n\n● Challenging the leaders\nChinese DeepSeek’s new reasoning model matches OpenAI o1\n\n● Green AI\nMicrosoft signs deal to restore Amazon rainforest to offset AI emissions\n\n● Agents have arrived\nOpenAI introduces Operator to automate tasks\n\n● Funding, funding, funding\nGoogle adds further $1 billion to its Anthropic stake",
+    "engagement": {
+      "likes": 342,
+      "comments": 76,
+      "shares": 45,
+      "views": 2140
+    }
+  }
+  {
+    "post": "While both Machine Learning Engineers and Data Scientists work in the realm of data, their roles have distinct focuses:\n\nData Scientists specialize in exploring and analyzing data to extract insights, build predictive models, and communicate findings. Their work often involves statistics, data visualization, and hypothesis testing, using tools like Python, R, and SQL.\n\nMachine Learning Engineers focus on implementing, scaling, and optimizing machine learning models in production. They prioritize software engineering, model deployment, and infrastructure, using tools like TensorFlow, PyTorch, and cloud platforms.\n\nIn essence, Data Scientists uncover patterns, while Machine Learning Engineers bring those patterns to life in applications.",
+    "engagement": {
+      "likes": 512,
+      "comments": 87,
+      "shares": 62,
+      "views": 2930
+    }
+  }
+  {
+    "post": "Thrilled to unveil my latest project! 🎙️\nWe’ve developed an innovative speech-to-speech translation system (Translato) designed to break language barriers and enhance accessibility for India’s diverse, multilingual audience. 🌍\n\n🔑 Key Features:\nTranslates live commentary from English to multiple languages 🌐.\n\n💡 Use Case:\nDelivers translated audio in real-time for OTT platforms, making entertainment and live events accessible to millions.\n\n🛠️ Technologies Behind the Scenes:\nLangChain: Orchestrating seamless workflows for AI-powered tasks.\nOpenAI, Gemini AI, Hugging Face: Powering speech recognition, translation, and text-to-speech capabilities.\n\nThis project represents a significant step toward making digital content more inclusive and engaging for everyone.\n\n💬 I’d love to hear your thoughts or experiences with similar technologies! Let’s connect and discuss how we can shape the future of accessible AI-driven solutions.",
+    "engagement": {
+      "likes": 860,
+      "comments": 120,
+      "shares": 78,
+      "views": 4500
+    }
+  }
+  {
+    "post": "Struggling to Choose the Right Framework for Your AI Workflow?\n\nExploring the world of AI applications and unsure whether to pick LangGraph or LangChain? You’re not alone! These powerful frameworks serve different purposes. Here’s a quick comparison to guide your decision:\n\nLangGraph:\n\n- Structured workflows at its core.\n- Ideal for visualizing and managing complex AI task pipelines.\n- Uses a graph-based approach, perfect for workflows where task sequence and dependencies matter.\n\nLangChain:\n\n- Built for developers prioritizing flexibility.\n- Enables programmatic chaining of LLM tasks, supporting dynamic workflows.\n- Best for experimentation, prototyping, and quickly integrating AI functionalities into applications.\n\nWhich Should You Choose?\n\n- Opt for LangGraph if your project demands complex workflows with clear dependencies.\n- Choose LangChain for a code-first approach that allows you to chain AI tasks flexibly.\n\nUnderstanding these differences can save you time and align your tools with your project goals effectively. AI development isn’t just about building—it’s about building smart.\n\nWhich framework do you prefer and why? Share your insights below and let’s discuss!",
+    "engagement": {
+      "likes": 1045,
+      "comments": 220,
+      "shares": 56,
+      "views": 6600
+    }
+  }
+  {
+    "post": "RAG (Retrieval-Augmented Generation) & LangChain?\n\nRAG - combines generative models (like GPT) with retrieval systems to improve the accuracy and relevance of generated responses.\n\nRAG eliminates the need for expensive model training, as organizations can easily update their knowledge bases without modifying the core model.\n\nLangChain - LangChain is an open-source framework for building advanced AI applications. It leverages powerful language models to create data-aware, autonomous systems.",
+    "engagement": {
+      "likes": 1500,
+      "comments": 320,
+      "shares": 89,
+      "views": 7500
+    }
+  }
+  {
+    "post": "Great milestone yesterday as LangChain accepted Tilores IdentityRAG into their official Tools documentation. 📚 🎉\n\nYes, that is us next to Twilio. 😄\n\nIt's been interesting following the increase in attention on the Github repo for our demo customer insights chatbot. Only just over 200 ⭐ but growing at a nice rate, and bringing us new users every day. 👯\n\nWant to use Large Language Models to have meaningful, accurate conversations using your complete customer data, even when it's scattered across different systems? Tilores IdentityRAG seamlessly connects those dots, giving you a true 360° customer view in minutes - not months.",
+    "engagement": {
+      "likes": 1800,
+      "comments": 320,
+      "shares": 90,
+      "views": 10500
+    }
+  }
+  {
+    "post": "Day 10: Practical Demo -> Assembling and Evaluating a RAG Application\n\nToday, I took the first step into a hands-on demo for assembling and evaluating a Retrieval-Augmented Generation (RAG) application.\n\nThe focus was on setting up and testing the retrieval component using LangChain in Databricks. This is the backbone of any RAG pipeline, and it was interesting to see it in action! 🚀\n\nSummary of today:\n\n1️⃣ Demo Overview\nThe goal was to assemble the RAG components and demonstrate their interaction.\n\nWorkflow:\n- A user asks a question.\n- The system retrieves relevant documents using the Vector Search Index.\n- Context is added to the prompt and passed to the foundation model endpoint.\n- The final answer is displayed to the user.\n\n2️⃣ Setting Up the RAG Components\nRetriever: Configured the Vector Search Endpoint as a retriever to identify top relevant documents for any query.\n\nSteps to implement:\n- Defined the endpoint using LangChain.\n- Tested the LangChain embedding model to ensure compatibility.\n- Set up and validated the retriever function.\n\n3️⃣ LangChain in Action\nEmbedding Model: Used the Databricks bge-large-en embedding model for consistent results.\n\nKey Code Highlights:\n- Created a retriever function with k=2 to fetch the top two relevant documents.\n- Successfully invoked the retriever to answer the query: \"How does Generative AI impact humans?\"\n- Outputs: Relevant documents with context-rich responses.\n\n💡 Key Learnings\n\n- LangChain Integration: Seamless integration with Databricks enhances the ability to build robust RAG pipelines.\n- Efficient Retrieval: Properly setting up the retriever ensures accurate and contextually relevant document retrieval.\n- Modular Design: Breaking down the process into components (retrieval, context addition, model query) simplifies debugging and scalability.\n\n#databrickslearningfestival #rag #retrievalaugmentedgeneration #langchain #generativeai #databricks",
+    "engagement": {
+      "likes": 1400,
+      "comments": 250,
+      "shares": 65,
+      "views": 9200
+    }
+  }
+  {
+    "post": "🏆🏅This New Method: Analogy-Augmented Generation (AAG) Mimics Human Problem-Solving with Analogical Reasoning, Tested on LangChain Tutorials and Outperforming RAG by 40%\n\nLarge Language Models (LLMs) excel in language understanding but often struggle to synthesize complex, multi-step procedural tasks.\n\nAnalogy-Augmented Generation (AAG) addresses this challenge by integrating a structured procedural memory and leveraging analogical reasoning to mimic human problem-solving.\n\nThe researchers tested AAG using LCStep, a novel dataset created from LangChain tutorials, to evaluate its ability to adapt to unfamiliar domains.\n\n﹌﹌﹌﹌﹌﹌﹌﹌﹌\n》What Makes AAG Extraordinary?\n\n✸ AAG in a Nutshell: Inspired by human cognition, AAG retrieves analogical examples from procedural memory, adapts them to the task at hand, and generates clear, actionable steps for achieving goals.\n\n✸ Key Innovations:\n\n☆ LCStep Dataset: Created from LangChain tutorials, LCStep provides a structured testbed to evaluate AAG’s ability to solve unfamiliar procedural tasks.\n\n☆ Procedural Memory: Stores structured knowledge for efficient retrieval.\n\n☆ Query Generation: Breaks tasks into manageable questions, allowing for precise knowledge retrieval.\n\n☆ Iterative Refinement: Uses self-critique to fine-tune outputs, ensuring clarity and accuracy.\n\n﹌﹌﹌﹌﹌﹌﹌﹌﹌\n》Why AAG Outshines RAG\n\n✸ Improved Clarity: Outputs are more detailed, coherent, and actionable.\n\n✸ Adaptability: Excels in both familiar and unfamiliar domains, including LangChain programming tasks as demonstrated on the LCStep dataset.\n\n✸ Efficiency: Eliminates the need for frequent model retraining, relying instead on memory updates.\n\n﹌﹌﹌﹌﹌﹌﹌﹌﹌\n》Real-World Impact of AAG\n\n✸ Solving Unseen Problems: By leveraging LCStep, AAG demonstrated its ability to thrive in environments where traditional LLMs lack expertise.\n\n✸ Enhanced User Experiences: Generates personalized and conte
+                
